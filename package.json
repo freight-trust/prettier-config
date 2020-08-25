@@ -1,0 +1,14 @@
+{
+  "name": "freight-trust-prettier-config",
+  "version": "1.0.0",
+  "description": "config for webapp",
+  "main": "index.json",
+  "repository": "https://github.com/freight-trust/prettier-config.git",
+  "author": "sam <sam@freighttrust.com>",
+  "license": "ISC",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-json": "^2.1.2"
+  }
+}
